@@ -1,0 +1,133 @@
+{
+  "products": [
+    {
+      "product_id": "f099fceced1720f3",
+      "versions": [
+        {
+          "sku": "SKU-MUG-A",
+          "title": "Blue Mug",
+          "color": "blue",
+          "capacity_ml": 300,
+          "image": "/img/mug-blue.png",
+          "price_cents": 1290,
+          "valid_from": "2026-03-01",
+          "valid_to": "2026-03-02",
+          "is_current": false
+        },
+        {
+          "sku": "SKU-MUG-A2",
+          "title": "Blue Mug",
+          "color": "blue",
+          "capacity_ml": 300,
+          "image": "/img/mug-blue.png",
+          "price_cents": 1490,
+          "valid_from": "2026-03-02",
+          "valid_to": null,
+          "is_current": true
+        }
+      ]
+    },
+    {
+      "product_id": "086dd81ffc51b94e",
+      "versions": [
+        {
+          "sku": "SKU-LAMP-1",
+          "title": "Desk Lamp",
+          "color": "black",
+          "capacity_ml": 0,
+          "image": "/img/lamp.png",
+          "price_cents": 5900,
+          "valid_from": "2026-03-01",
+          "valid_to": "2026-03-02",
+          "is_current": false
+        }
+      ]
+    },
+    {
+      "product_id": "c0ecb9b4ecc85edd",
+      "versions": [
+        {
+          "sku": "NW-1",
+          "title": "Night Light",
+          "color": "white",
+          "capacity_ml": 0,
+          "image": "/img/night-a.png",
+          "price_cents": 800,
+          "valid_from": "2026-03-01",
+          "valid_to": "2026-03-02",
+          "is_current": false
+        },
+        {
+          "sku": "NW-1B",
+          "title": "Night Light",
+          "color": "white",
+          "capacity_ml": 0,
+          "image": "/img/night-a.png",
+          "price_cents": 800,
+          "valid_from": "2026-03-02",
+          "valid_to": null,
+          "is_current": true
+        }
+      ]
+    },
+    {
+      "product_id": "8688f6845b6b3b34",
+      "versions": [
+        {
+          "sku": "NW-2",
+          "title": "Night Light",
+          "color": "white",
+          "capacity_ml": 0,
+          "image": "/img/night-b.png",
+          "price_cents": 820,
+          "valid_from": "2026-03-01",
+          "valid_to": "2026-03-02",
+          "is_current": false
+        },
+        {
+          "sku": "NW-2B",
+          "title": "Night Light",
+          "color": "white",
+          "capacity_ml": 0,
+          "image": "/img/night-b.png",
+          "price_cents": 820,
+          "valid_from": "2026-03-02",
+          "valid_to": null,
+          "is_current": true
+        }
+      ]
+    },
+    {
+      "product_id": "35fd34f3eea880eb",
+      "versions": [
+        {
+          "sku": "SKU-CUP-3",
+          "title": "Travel Cup",
+          "color": "silver",
+          "capacity_ml": 450,
+          "image": "/img/cup.png",
+          "price_cents": 2100,
+          "valid_from": "2026-03-01",
+          "valid_to": null,
+          "is_current": true
+        }
+      ]
+    },
+    {
+      "product_id": "20fe13d23364365a",
+      "versions": [
+        {
+          "sku": "SKU-BOWL-9",
+          "title": "Soup Bowl",
+          "color": "green",
+          "capacity_ml": 600,
+          "image": "/img/bowl.png",
+          "price_cents": 1600,
+          "valid_from": "2026-03-02",
+          "valid_to": null,
+          "is_current": true
+        }
+      ]
+    }
+  ]
+}
